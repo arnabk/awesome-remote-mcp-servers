@@ -1295,6 +1295,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![TechFabric MCP connector](https://glama.ai/mcp/connectors/com.techfabric/techfabric/badges/score.svg)](https://glama.ai/mcp/connectors/com.techfabric/techfabric)
   🔓 - Search and read TechFabric's Databricks and AI content: blog posts with FAQs, services, case studies.
 - [Termalin](https://termal.in) `https://termal.in/mcp`
+- [TheySaid](https://www.theysaid.io) `https://ai.theysaid.io/api/mcp`
+  [![TheySaid MCP connector](https://glama.ai/mcp/connectors/io.theysaid.ai/they-said/badges/score.svg)](https://glama.ai/mcp/connectors/io.theysaid.ai/they-said)
+  🔐 - Search customer feedback and run AI usability tests on any website or design.
   [![Termalin MCP connector](https://glama.ai/mcp/connectors/in.termal/termalin-web/badges/score.svg)](https://glama.ai/mcp/connectors/in.termal/termalin-web)
   🔐 - Run commands and read or write files over SSH/SFTP on your enrolled servers.
 - [The Aggregate](https://theaggregate.ai/mcp) `https://theaggregate.ai/mcp`
